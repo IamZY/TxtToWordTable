@@ -47,8 +47,8 @@ namespace TxtToWordTable
             //可以直接到百度翻译API的官网申请
             //此处的都是子丰随便写的，所以肯定是不能用的
             //一定要去申请，不然程序的翻译功能不能使用
-            string appId = "20190616000307966";
-            string password = "VJwJ2nmsOduSaNOVrYz2";
+            string appId = "20190***307966";
+            string password = "VJwJ2******VrYz2";
 
             // 转换编码
             UTF8Encoding utf8 = new UTF8Encoding();
