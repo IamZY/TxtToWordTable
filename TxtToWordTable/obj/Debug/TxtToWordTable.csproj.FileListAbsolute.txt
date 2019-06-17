@@ -1,0 +1,15 @@
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\TxtToWordTable.exe.config
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\TxtToWordTable.exe
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\TxtToWordTable.pdb
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\obj\Debug\TxtToWordTable.csprojAssemblyReference.cache
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\obj\Debug\TxtToWordTable.csproj.CoreCompileInputs.cache
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\obj\Debug\TxtToWordTable.exe
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\obj\Debug\TxtToWordTable.pdb
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\Spire.Doc.dll
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\Spire.License.dll
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\Spire.Pdf.dll
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\Microsoft.mshtml.dll
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\Spire.Doc.xml
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\Spire.License.xml
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\bin\Debug\Spire.Pdf.xml
+D:\src\vs2017\TxtToWordTable\TxtToWordTable\obj\Debug\TxtToWordTable.csproj.CopyComplete
